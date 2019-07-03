@@ -1,10 +1,4 @@
-# Desafío Legalbot
-
-## Objetivo e Instrucciones
-El objetivo de este desafío es validar tus habilidades lógicas y conocimientos de programación. Hemos preparado esta actividad con desarrollos que ya hemos hecho en la empresa y nos gustaría saber cómo los hubieses enfrentado tú. 
-
-Este desafío cuenta de dos partes independientes. Si no logras realizar alguna de ellas envía de todas formas tus respuestas de las otras partes. Envía tus resultados en forma de repositorio en Github.
-
+# Desafío Scraper y OCR utilizando Python
 
 ## Parte 1: Scraper
 En la página del Diario Oficial (http://www.diariooficial.interior.gob.cl) se encuentran todas las publicaciones digitalizadas de los últimos años. Estas publicaciones corresponden a extractos de publicaciones de leyes, normas y constitución de empresas entre otras. Para este ejercicio nos enfocaremos solo en la parte de empresas.
